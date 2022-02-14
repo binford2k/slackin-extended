@@ -4,6 +4,15 @@
 
 ## Features
 
+```mermaid
+  graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      C-->D;
+```
+
+
 Slackin-extended is a more customizable and extendable fork of the original [slackin](https://github.com/rauchg/slackin).
 
 - A landing page you can point users to fill in their emails and receive an invite (`https://slack.yourdomain.com`)
